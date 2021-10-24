@@ -1,2 +1,1 @@
-# decoratio
-Method to estimate the depth-complexity ratio and amplification noise in sequencing datasets
+The code for this program is actually hosted at https://bitbucket.org/rochette/decoratio.
